@@ -41,4 +41,10 @@ MIT License © 2026 [PZ0632-master]
      有问题或建议？欢迎提交 Issue 或联系 [PZ0632@163.com]
 </p>
 ```
-https://github.com/PZ0632-master/Occupational-Health-Programs.git
+
+### 安装方式
+在 Claude Code、Codex、OpenClaw 等支持 Skill 的 Agent 里，直接说：
+
+帮我安装这个 skill：https://github.com/PZ0632-master/Occupational-Health-Programs/tree/main/<skill-name>
+把 <skill-name> 换成你想装的那个，比如 NoiseCalculator-skills。Agent 会自己 clone 到对应目录，不用你操心路径。
+
