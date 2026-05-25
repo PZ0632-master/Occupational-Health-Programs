@@ -48,3 +48,9 @@ MIT License © 2026 [PZ0632-master]
 帮我安装这个 skill：https://github.com/PZ0632-master/Occupational-Health-Programs/tree/main/skills-name
 把 skills-name换成你想装的那个，比如 NoiseCalculator-skills。Agent 会自己 clone 到对应目录，不用你操心路径。
 
+### 技能索引
+| 序 号  | 技能名称 |核心用途 |触发关键词|
+|-------|----------|--------|----------|
+|  1 |   NoiseCalculator-skills   | 可以自动计算全天等效声级、8小时等效声级、每周40小时等效声级| GBZ/T189.8-2007、全天等效声级计算、8小时等效声级计算、每周40小时等效声级计算 |
+
+
